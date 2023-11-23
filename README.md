@@ -1,7 +1,7 @@
-# Olá, sou Juliano Almada 👋
-<br>
-## 🔥 Development student looking for new challenges...
-<br>
+## Olá, sou Juliano Almada 👋
+
+- 🔥 Development student looking for new challenges...
+
 - 🌱 I’m currently working on: Web Development
 - 🗺️ I’m looking to collaborate on: Mobile Projects
 - 🌱 Contact-me if you're looking for help in:
