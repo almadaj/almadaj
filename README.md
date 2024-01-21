@@ -3,8 +3,8 @@
   <a href="https://www.linkedin.com/in/juliano-almada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - 🔥 Development student looking for new challenges...
 
-- 🌱 I’m currently working on: Web Development
-- 🗺️ I’m looking to collaborate on: Mobile Projects
+- 🌱 I’m currently working on: Mobile Development
+- 🗺️ I’m looking to collaborate on: Backend Projects
 - 🌱 Please, contact me if you're looking for help in:
 
 <div style="display: inline_block"><br>
