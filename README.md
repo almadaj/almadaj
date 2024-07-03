@@ -4,7 +4,7 @@
 - 🔥 Development student looking for new challenges...
 
 - 🌱 I’m currently working on: Backend Development
-- 🗺️ I’m looking to collaborate on: React Native Projects
+- 🗺️ I’m looking to collaborate on: React Native and Ruby on Rails Projects
 - 🌱 Please, contact me if you're looking for help in:
 
 <div style="display: inline_block"><br>
